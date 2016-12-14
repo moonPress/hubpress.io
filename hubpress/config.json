@@ -7,6 +7,8 @@
   "site": {
     "title": "MoonPress",
     "description": "Blog of moonRise studio Game developers",
+    "logo": "http://i.imgur.com/zAsP3xh.png",
+    "cover": "http://i.imgur.com/2INEwcN.png",
     "postsPerPage": "5"
   },
   "socialnetwork": {

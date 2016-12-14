@@ -4,7 +4,13 @@
     "repositoryName": "press.io",
     "branch": "gh-pages"
   },
+  "site": {
+    "title": "MoonPress",
+    "description": "Blog of moonRise studio Game developers",
+    "postsPerPage": "5"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }

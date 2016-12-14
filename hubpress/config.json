@@ -9,7 +9,11 @@
     "description": "Blog of moonRise studio Game developers",
     "postsPerPage": "5"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "studiomoonrise@gmail.com",
+    "twitter": "https://twitter.com/moonrisestudio",
+    "facebook": "https://www.facebook.com/StudiomoonRise/"
+  },
   "theme": {
     "name": "casper"
   }

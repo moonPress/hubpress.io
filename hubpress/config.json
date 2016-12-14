@@ -9,7 +9,8 @@
     "description": "Blog of moonRise studio Game developers",
     "logo": "http://i.imgur.com/zAsP3xh.png",
     "cover": "http://i.imgur.com/Rl9BJyo.png",
-    "postsPerPage": "5"
+    "postsPerPage": "5",
+    "disqus": "kato"
   },
   "socialnetwork": {
     "email": "studiomoonrise@gmail.com",

@@ -1,5 +1,7 @@
 = MoonRise Update 04.03.17
-:hp-tags: moonrise,update,pt-br
+:hp-tags: moonrise, update, pt-br
+
+`*_Carlos Vinicius - Gamedesigner_*`
 
 Resolvi postar updates da moonRise falando sobre o que está acontecendo com o estudio, estes updates vão ser em português, diferente dos updates dos jogos que serão postados mais a frente, esses updates vão ser pessoais e por isso em português.
 
@@ -14,6 +16,4 @@ Com isso decidimos ter *dois modelos* de negocio onde em um criamos jogos com ip
 Ainda pode acontecer de ter um post de apresentação de cada um deles, o designer de som anda bem ocupado então ele vai participar menos desse tipo de coisa, mas vai que né?
 
 Mas o fato é que teremos muitas novidades ainda este ano.
-
-`*_Carlos Vinicius - Gamedesigner_*`
 

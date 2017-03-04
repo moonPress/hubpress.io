@@ -1,0 +1,11 @@
+= MoonRise Update 04.03.17
+:hp-tags: moonrise,update,pt-br
+
+Resolvi postar updates da moonRise falando sobre o que está acontecendo com o estudio, estes updates vão ser em português, diferente dos updates dos jogos que serão psotados mais a frente, esses updates vão ser bem pessoais e por isso em português.
+
+A moonRise inicialmente era pequena, era basicamente eu e só... Após postar um formulario para achar alguem interessado a trabalhar comigo, estranhamente teve gente que se interessou e com isso ganhei mais 3 companheiros para trabalhar na moonRise comigo.
+
+*Um programador, um artista 3D e um designer de som.*
+
+Tivemos alguma reuniões e já estamos produzindo um jogo totalmente novo, com ideia de todos juntos e isso é muito massa, mas já produzimos um jogo para um site de jogos chamado link:http://moonrisestudio.tk/DropDeJogosNaE3/index.html[*Drop de Jogos*] onde basicamente é apresentado 6 artigos escritos na E3 anterior e o jogador deve achar 6 easter eggs escondidos. Com isso decidimos ter dois modelos de negocio onde um criamos jogos com ip propria e o outro faremos jogos com parceiros ou clientes... precisamos de dinheiro pra comprar paçoca 
+

@@ -1,5 +1,5 @@
 = MoonRise Update 04.03.17
-:hp-tags: moonrise, update, pt-br
+:hp-tags: moonrise, update, pt-br, press release
 
 `*_Carlos Vinicius - Gamedesigner_*`
 

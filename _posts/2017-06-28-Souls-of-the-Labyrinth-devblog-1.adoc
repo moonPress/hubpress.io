@@ -1,0 +1,18 @@
+= Souls of the Labyrinth devblog 1
+:hp-tags: souls-of-the-labyrinth, devblog
+
+`*_Carlos Vinicius - Gamedesigner_*`
+
+Este é o primeiro dev blog do jogo Souls of the labyrinth, para quem não sabe, souls of the labyrinth é o jogo que a galera da moonRise esta fazendo atualmente, e vem progredindo muito nesses ultimos tempos! Eu não sou de fazer devblog, e imagino que existem pessoas que leem esse isse tipo de blog e pessoas que não leem, mas vou simplesmente esquecer esse publico, por mais que seja errado, e vou fazer algo mais pessoal, com os erros de pontuação e acentuação, assim como os sentimentos de melancolia e dor criados em uma produção de jogos, no caso o jogo, Souls of the labyrinth!
+
+Agora temos uma pagina apenas para o jogo, para focar o publico inteiro lá, isso me facilita para poder postar coisas do jogo, assim como construir uma possivel comunidade, que é o foco aqui, mas aqui no devblog só vai ter dor e sofrimento, esse é o publico que estou procurando, acredito que quem lê blogs entende sobre isso, então é sobre isso que vou falar.
+
+Isso é uma apresentação, então eu sou Carlos, sou desenvolvedor da moonRise Studio, brasileira e estou fazendo Souls of the Labyrinth, jogo inspirado em Shadow of the colossus, jogo que me motivou a ser gamedesigner, então imagina como estou feliz? Exato! Estou todo dia encontrando um motivo para estar vivo... Mentira, ta muito foda, e eu estou amando participar deste jogo.
+
+Eu sou do tipo do gamedesigner romantico, aquele que ama jogos de maneira celestial, que fala uma pá de baboseiras para afirmar suas poesias sem sentido relacionadas a jogos, eu acredito nos sentimentos em jogos, acredito! E é isso que estou encarregado de fazer aqui, por isso que esse devblog vai ser tão pessoal e sentimental talvez, quem sabe escrever ele bêbado, não sei, mas o fato é, irei faze lo!
+
+Souls of the Labyrinth é sobre uma criança que perdeu tudo que ela tinha, na frente dos olhos dela e se viu sozinha, completamente sozinha, e perdida em um labirinto, quando se vê sozinho você encontra objetivos e se abraça neles com tamanha força que sua vida se torna isso e é isso que ela faz, ela é uma criança, não sabe muito sobre as coisas, mas sabe que objetivos devem ser conquistados seja o que custar e ela sente o valor desse objetivo logo no inicio. 
+
+A ideia é mostrar ao jogador que mesmo em um labirinto quando se tem um objetivo você consegue se achar, na verdade se procurarem sobre o que é um labirinto, ele não é sobre se perder, ele não tenta te enganar, ele te leva ao centro dele, o problema aqui é que você esta saindo do centro, indo para outros lugares, então fica mais complicado, mas o objetivo aqui não é se perder, o objetivo é uma cebola de objetivos, camadas que a cada conclusão existem novos objetivos, isso vendo de longe, é bem mais simples do que parece, lembra a parte de falar baboseiras? então...
+
+Não deixem de conhecer Souls of the Labyrinth e participar dessa loucura que é desenvolver um jogo!
